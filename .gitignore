@@ -1,0 +1,16 @@
+# 构建与打包产物
+.build/
+dist/
+
+# 本地工具与凭据
+.tools/
+.ghconfig/
+.gh_token
+
+# 演示/测试数据
+.demo-ui/
+.demo-data/
+
+# 系统杂物
+.DS_Store
+*.xcuserdatad
